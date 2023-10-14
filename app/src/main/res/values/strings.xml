@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NavigationComponent</string>
+    <string name="choose">Choose the alphabet</string>
+    <string name="a">A</string>
+    <string name="words">Android</string>
+    <string name="choose_word">Choose the word</string>
+</resources>
